@@ -1,0 +1,15 @@
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\bin\Debug\net6.0-windows\EspaciosDeColor.exe
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\bin\Debug\net6.0-windows\EspaciosDeColor.deps.json
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\bin\Debug\net6.0-windows\EspaciosDeColor.runtimeconfig.json
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\bin\Debug\net6.0-windows\EspaciosDeColor.dll
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\bin\Debug\net6.0-windows\ref\EspaciosDeColor.dll
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\bin\Debug\net6.0-windows\EspaciosDeColor.pdb
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\obj\Debug\net6.0-windows\EspaciosDeColor.csproj.AssemblyReference.cache
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\obj\Debug\net6.0-windows\EspaciosDeColor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\obj\Debug\net6.0-windows\EspaciosDeColor.AssemblyInfoInputs.cache
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\obj\Debug\net6.0-windows\EspaciosDeColor.AssemblyInfo.cs
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\obj\Debug\net6.0-windows\EspaciosDeColor.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\obj\Debug\net6.0-windows\EspaciosDeColor.dll
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\obj\Debug\net6.0-windows\ref\EspaciosDeColor.dll
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\obj\Debug\net6.0-windows\EspaciosDeColor.pdb
+D:\Cristian\Documents\6to semestre\Graficacion\EspaciosDeColor\obj\Debug\net6.0-windows\EspaciosDeColor.genruntimeconfig.cache
